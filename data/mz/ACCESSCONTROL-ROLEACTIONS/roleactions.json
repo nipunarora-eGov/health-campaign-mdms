@@ -16543,6 +16543,12 @@
       "actionid": 1537,
       "actioncode": "",
       "tenantid": "mz"
+    },
+     {
+      "rolecode": "CAMPAIGN_MANAGER",
+      "actionid": 1542,
+      "actioncode": "",
+      "tenantid": "mz"
     }
   ]
 }
