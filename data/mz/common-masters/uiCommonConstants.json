@@ -28,6 +28,13 @@
             "routePath": "/kibana/app/dashboards#/view/f3275f70-d2ed-11ee-a631-9d8465121de3?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))",
             "isOrigin": true,
             "title": "LOCALITY_DASHBOARD"
+          },
+          "hcm": {
+            "routePath": "/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/b1ce8523-30cd-4966-aa8d-c3ac9561ebb2?embed=true&_g=(time:(from:now-15m,to:now))&_a=()",
+            "isOrigin": true,
+            "title": "DASHBOARD_HCM",
+            "Authorization":true,
+            "base-kibana-path":"/kibana/"
           }
         }
       }
